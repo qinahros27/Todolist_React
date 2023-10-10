@@ -33,4 +33,5 @@ This project uses basic Reactjs to create a to-do-list app.
 ```
 ## Getting started
 Clone the respository from github: ```git clone```
+
 Then run the app with this command: ```npm start``` 
